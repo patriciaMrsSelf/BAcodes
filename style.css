@@ -10,3 +10,38 @@ ul{
     list-style-type: circle;
 }
 lo{list-style-type: lower-latin;}
+
+a{
+font-family : Helvetica, sans-serif;
+text-decoration : none;
+background-color: aquamarine;
+padding : 5px;
+}
+a:hover{
+background-color: aqua;
+color : #ffffff;
+}
+a{ text-decoration: none;
+background-color: aquamarine ;}
+
+a:hover {
+    background-color: green;
+    colour:#ffffff ;
+     
+}
+
+#menu-bar a{
+font-family: Helvetica, sans-serif;
+text-decoration: none;
+background-color: aquamarine;
+padding: 5px;
+}
+#menu-bar a:hover{
+background-color: aqua;
+color: #ffffff;
+}
+
+.gallry img{
+
+    width: 100px;
+}
