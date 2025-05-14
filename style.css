@@ -6,3 +6,7 @@ p{
     colour : white ;
     font-family: fantasy ;
 }
+ul{
+    list-style-type: circle;
+}
+lo{list-style-type: lower-latin;}
